@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.23ebe893.css",
-    "main.js": "/static/js/main.a6c323bc.js",
+    "main.css": "/static/css/main.aded9fe5.css",
+    "main.js": "/static/js/main.354fcc9a.js",
     "static/js/6458.371f79fc.chunk.js": "/static/js/6458.371f79fc.chunk.js",
     "static/js/9858.137d5a48.chunk.js": "/static/js/9858.137d5a48.chunk.js",
     "static/js/4346.3878e2d8.chunk.js": "/static/js/4346.3878e2d8.chunk.js",
@@ -54,14 +54,14 @@
     "static/js/7042.d68bfac3.chunk.js": "/static/js/7042.d68bfac3.chunk.js",
     "static/js/3412.ca3d556f.chunk.js": "/static/js/3412.ca3d556f.chunk.js",
     "static/js/8462.71519a56.chunk.js": "/static/js/8462.71519a56.chunk.js",
-    "static/js/2897.1700e74e.chunk.js": "/static/js/2897.1700e74e.chunk.js",
+    "static/js/2897.74af09a9.chunk.js": "/static/js/2897.74af09a9.chunk.js",
     "static/js/5439.aa13433d.chunk.js": "/static/js/5439.aa13433d.chunk.js",
     "static/js/9473.c959d39c.chunk.js": "/static/js/9473.c959d39c.chunk.js",
     "static/js/774.594ed962.chunk.js": "/static/js/774.594ed962.chunk.js",
     "static/js/3459.8530cee2.chunk.js": "/static/js/3459.8530cee2.chunk.js",
     "static/js/741.62238134.chunk.js": "/static/js/741.62238134.chunk.js",
     "static/js/1511.ccf7a77e.chunk.js": "/static/js/1511.ccf7a77e.chunk.js",
-    "static/js/5419.47e701b3.chunk.js": "/static/js/5419.47e701b3.chunk.js",
+    "static/js/5419.2bea5c12.chunk.js": "/static/js/5419.2bea5c12.chunk.js",
     "static/media/gameplay_bg.png": "/static/media/gameplay_bg.2c656ac468c0a8dd36df.png",
     "static/media/gameplay_card5.png": "/static/media/gameplay_card5.5164ef8d304682960ff4.png",
     "static/media/nft_card_pc.png": "/static/media/nft_card_pc.30edd1661fbae5bbf699.png",
@@ -130,6 +130,7 @@
     "static/media/roadmap_card_bg.png": "/static/media/roadmap_card_bg.d341912a36bba870dd44.png",
     "static/media/bg_common.png": "/static/media/bg_common.a9311c127b0e65e4626e.png",
     "static/media/mint_bg.png": "/static/media/mint_bg.fe908d0fcbadf966a6c7.png",
+    "static/media/_step_2.png": "/static/media/_step_2.812635cd13c95c0961ce.png",
     "static/media/icon_customer_service.png": "/static/media/icon_customer_service.b9bb652c3147d639d033.png",
     "static/media/belief_text_pic.png": "/static/media/belief_text_pic.9efea0ae8bb3d82cc0e8.png",
     "static/media/nft_card_bg.png": "/static/media/nft_card_bg.d12f8234f6c84767f15f.png",
@@ -141,7 +142,8 @@
     "static/media/athletic_roamer2.png": "/static/media/athletic_roamer2.09969aa98e559d17b8a1.png",
     "static/media/social_roamer2.png": "/static/media/social_roamer2.a3969a3f01d1ad596ca5.png",
     "static/media/step_1.png": "/static/media/step_1.3da87402911f1b671846.png",
-    "static/media/step_2.png": "/static/media/step_2.527e54b95f6ab72b9eb6.png",
+    "static/media/step_2.png": "/static/media/step_2.3da87402911f1b671846.png",
+    "static/media/step_3.png": "/static/media/step_3.4a6984aac69c40dd8b6b.png",
     "static/media/artistic_roamer2.png": "/static/media/artistic_roamer2.a1b7e9a51edac181fc78.png",
     "static/media/athletic_roamer1.png": "/static/media/athletic_roamer1.7d6306f43c63fd5f2579.png",
     "static/media/roamxlogo.png": "/static/media/roamxlogo.dc9702a8c75754a03de2.png",
@@ -149,8 +151,8 @@
     "static/media/nft_noname_text_bg.png": "/static/media/nft_noname_text_bg.35d4f221072d1f1f0870.png",
     "static/media/gameplay_step2_arrow.svg": "/static/media/gameplay_step2_arrow.38c3e7d83d17bde8881c6c53ff31955c.svg",
     "index.html": "/index.html",
-    "main.23ebe893.css.map": "/static/css/main.23ebe893.css.map",
-    "main.a6c323bc.js.map": "/static/js/main.a6c323bc.js.map",
+    "main.aded9fe5.css.map": "/static/css/main.aded9fe5.css.map",
+    "main.354fcc9a.js.map": "/static/js/main.354fcc9a.js.map",
     "6458.371f79fc.chunk.js.map": "/static/js/6458.371f79fc.chunk.js.map",
     "9858.137d5a48.chunk.js.map": "/static/js/9858.137d5a48.chunk.js.map",
     "4346.3878e2d8.chunk.js.map": "/static/js/4346.3878e2d8.chunk.js.map",
@@ -202,16 +204,16 @@
     "7042.d68bfac3.chunk.js.map": "/static/js/7042.d68bfac3.chunk.js.map",
     "3412.ca3d556f.chunk.js.map": "/static/js/3412.ca3d556f.chunk.js.map",
     "8462.71519a56.chunk.js.map": "/static/js/8462.71519a56.chunk.js.map",
-    "2897.1700e74e.chunk.js.map": "/static/js/2897.1700e74e.chunk.js.map",
+    "2897.74af09a9.chunk.js.map": "/static/js/2897.74af09a9.chunk.js.map",
     "9473.c959d39c.chunk.js.map": "/static/js/9473.c959d39c.chunk.js.map",
     "774.594ed962.chunk.js.map": "/static/js/774.594ed962.chunk.js.map",
     "3459.8530cee2.chunk.js.map": "/static/js/3459.8530cee2.chunk.js.map",
     "741.62238134.chunk.js.map": "/static/js/741.62238134.chunk.js.map",
     "1511.ccf7a77e.chunk.js.map": "/static/js/1511.ccf7a77e.chunk.js.map",
-    "5419.47e701b3.chunk.js.map": "/static/js/5419.47e701b3.chunk.js.map"
+    "5419.2bea5c12.chunk.js.map": "/static/js/5419.2bea5c12.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23ebe893.css",
-    "static/js/main.a6c323bc.js"
+    "static/css/main.aded9fe5.css",
+    "static/js/main.354fcc9a.js"
   ]
 }
