@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.aded9fe5.css",
-    "main.js": "/static/js/main.354fcc9a.js",
+    "main.css": "/static/css/main.6fd876a3.css",
+    "main.js": "/static/js/main.e3c521d1.js",
     "static/js/6458.371f79fc.chunk.js": "/static/js/6458.371f79fc.chunk.js",
     "static/js/9858.137d5a48.chunk.js": "/static/js/9858.137d5a48.chunk.js",
     "static/js/4346.3878e2d8.chunk.js": "/static/js/4346.3878e2d8.chunk.js",
@@ -151,8 +151,8 @@
     "static/media/nft_noname_text_bg.png": "/static/media/nft_noname_text_bg.35d4f221072d1f1f0870.png",
     "static/media/gameplay_step2_arrow.svg": "/static/media/gameplay_step2_arrow.38c3e7d83d17bde8881c6c53ff31955c.svg",
     "index.html": "/index.html",
-    "main.aded9fe5.css.map": "/static/css/main.aded9fe5.css.map",
-    "main.354fcc9a.js.map": "/static/js/main.354fcc9a.js.map",
+    "main.6fd876a3.css.map": "/static/css/main.6fd876a3.css.map",
+    "main.e3c521d1.js.map": "/static/js/main.e3c521d1.js.map",
     "6458.371f79fc.chunk.js.map": "/static/js/6458.371f79fc.chunk.js.map",
     "9858.137d5a48.chunk.js.map": "/static/js/9858.137d5a48.chunk.js.map",
     "4346.3878e2d8.chunk.js.map": "/static/js/4346.3878e2d8.chunk.js.map",
@@ -213,7 +213,7 @@
     "5419.2bea5c12.chunk.js.map": "/static/js/5419.2bea5c12.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aded9fe5.css",
-    "static/js/main.354fcc9a.js"
+    "static/css/main.6fd876a3.css",
+    "static/js/main.e3c521d1.js"
   ]
 }
